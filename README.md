@@ -41,8 +41,6 @@ I would like to continue learning to write semantic and accessible HTML.
 - [MDN](https://developer.mozilla.org/en-US/) - I really enjoyed studying on MDN as it simplifies web technologies
 - [W3schools](https://www.w3schools.com) - Learning from W3schools is an excellent resource when lrarning web development , which I consult very often.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
 - Frontend Mentor - [@codingbreeze87](https://www.frontendmentor.io/profile/codingbreeze87)
